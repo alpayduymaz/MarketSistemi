@@ -1,0 +1,15 @@
+C:\Users\alpay\source\repos\182805002-182805001-182805010-192803051\Nypproje\bin\Debug\MarketSistemi.exe.config
+C:\Users\alpay\source\repos\182805002-182805001-182805010-192803051\Nypproje\bin\Debug\MarketSistemi.exe
+C:\Users\alpay\source\repos\182805002-182805001-182805010-192803051\Nypproje\bin\Debug\MarketSistemi.pdb
+C:\Users\alpay\source\repos\182805002-182805001-182805010-192803051\Nypproje\obj\Debug\MarketSistemi.csprojAssemblyReference.cache
+C:\Users\alpay\source\repos\182805002-182805001-182805010-192803051\Nypproje\obj\Debug\MarketSistemi.Form1.resources
+C:\Users\alpay\source\repos\182805002-182805001-182805010-192803051\Nypproje\obj\Debug\MarketSistemi.login.resources
+C:\Users\alpay\source\repos\182805002-182805001-182805010-192803051\Nypproje\obj\Debug\MarketSistemi.Marketler_ve_Tedarikciler.resources
+C:\Users\alpay\source\repos\182805002-182805001-182805010-192803051\Nypproje\obj\Debug\MarketSistemi.müdürindirimformu.resources
+C:\Users\alpay\source\repos\182805002-182805001-182805010-192803051\Nypproje\obj\Debug\MarketSistemi.Properties.Resources.resources
+C:\Users\alpay\source\repos\182805002-182805001-182805010-192803051\Nypproje\obj\Debug\MarketSistemi.ÇalışanForm.resources
+C:\Users\alpay\source\repos\182805002-182805001-182805010-192803051\Nypproje\obj\Debug\MarketSistemi.ÜrünForm.resources
+C:\Users\alpay\source\repos\182805002-182805001-182805010-192803051\Nypproje\obj\Debug\MarketSistemi.csproj.GenerateResource.cache
+C:\Users\alpay\source\repos\182805002-182805001-182805010-192803051\Nypproje\obj\Debug\MarketSistemi.csproj.CoreCompileInputs.cache
+C:\Users\alpay\source\repos\182805002-182805001-182805010-192803051\Nypproje\obj\Debug\MarketSistemi.exe
+C:\Users\alpay\source\repos\182805002-182805001-182805010-192803051\Nypproje\obj\Debug\MarketSistemi.pdb
